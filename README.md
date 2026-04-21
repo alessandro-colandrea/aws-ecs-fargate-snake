@@ -25,4 +25,4 @@ L'applicazione viene "impacchettata" localmente e resa disponibile al cloud tram
 	3	Distribuisci: terraform apply
 	4	Gioca: Accedi tramite l'URL fornito dall'output alb_dns_name.
 
-![Snake AWS Architecture](images/snake-aws.png)
+![Snake AWS Architecture](snake-container-aws/snake-aws.png)
