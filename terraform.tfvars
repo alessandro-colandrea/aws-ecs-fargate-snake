@@ -1,0 +1,6 @@
+vpc_cidr = "10.0.0.0/16"
+subnet_pubb="10.0.1.0/24"
+subnet_priv = "10.0.2.0/24"
+region="eu-west-1"
+subnet_pubb2 = "10.0.3.0/24"
+subnet_priv2 = "10.0.4.0/24"
